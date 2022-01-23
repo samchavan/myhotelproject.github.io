@@ -49,13 +49,13 @@ $(document).ready(function() {
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C25FEDTPTQ"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BBGH4X3B1H"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-C25FEDTPTQ');
+  gtag('config', 'G-BBGH4X3B1H');
 </script>
 </head>
 <body>
